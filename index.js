@@ -4,7 +4,9 @@ import { Wrapper } from './styled.js';
 const ImageCropper = () => {
     return (
         <Wrapper>
-            Crop Image
+            <span draggable>
+                This element is draggable
+            </span>
         </Wrapper>
     )
 }
