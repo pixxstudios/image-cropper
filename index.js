@@ -1,11 +1,11 @@
 import React from 'react';
-import * as css from './style.css';
+import { Wrapper } from './styled.js';
 
 const ImageCropper = () => {
     return (
-        <div className={css.container}>
+        <Wrapper>
             Crop Image
-        </div>
+        </Wrapper>
     )
 }
 
