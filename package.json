@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pixxstudios/image-cropper/issues"
   },
-  "homepage": "https://github.com/pixxstudios/image-cropper#readme"
+  "homepage": "https://github.com/pixxstudios/image-cropper#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
